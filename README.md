@@ -19,5 +19,9 @@ required to extract and clean the original dataset and also to produce a tidy
 dataset output.
 
 
-3.  **tidy_dataset_averages.csv**  This is the final tidy dataset, generated as
+3.  **tidy_dataset_averages.txt**  This is the tidy data set output in a text
+file format, delimited by a tab seperator.
+
+
+4.  **tidy_dataset_averages.csv**  This is the final tidy dataset, generated as
 a .csv file output. 

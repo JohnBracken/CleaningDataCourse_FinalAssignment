@@ -109,7 +109,11 @@ reduced_data <- reduced_data[,-grep("meanFreq", names(reduced_data))]
 tidy_data_averages <- aggregate(reduced_data[,3:68], by=list(Subject = reduced_data$Subject,Activity =reduced_data$Activity), FUN = "mean")
 
 
-#Export the tidy data set of means to a csv file, which can be viewed directly on github.
+#Export the tidy dataset to a text file.
+write.table(tidy_data_averages, "tidy_dataset_averages.txt", sep ="\t", row.names = FALSE)
+
+
+#Also export the tidy data set to a csv file, to show on Github.
 write.csv(tidy_data_averages,"tidy_dataset_averages.csv", row.names = FALSE)
 
 
