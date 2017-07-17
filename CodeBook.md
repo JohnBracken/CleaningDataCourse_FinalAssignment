@@ -9,7 +9,7 @@ motion activities.*
 ## Part 1:  Variable names and definitions.
 
 
-	**Subject**  A number used to identify a volunteer who used a cellphone
+	__Subject__  A number used to identify a volunteer who used a cellphone
         to collect motion data.  There were a total of 30 volunteers in
 	the study.
 
