@@ -1,4 +1,4 @@
-#Coursera Getting and Cleaning Data Course: Final Assignment
+# Coursera Getting and Cleaning Data Course: Final Assignment
 
 This repository contains the files needed to complete
 the final assignment for the Coursera 'Getting and Cleaning' data course.

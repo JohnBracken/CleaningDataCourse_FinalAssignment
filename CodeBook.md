@@ -6,7 +6,7 @@ wore a cellphone to measure motion data parameters while performing various
 motion activities.*
 
 
-##Part 1:  Variable names and definitions.
+## Part 1:  Variable names and definitions.
 
 
 	**Subject:**  A number used to identify a volunteer who used a cellphone
@@ -91,7 +91,7 @@ motion activities.*
 	signal.
 	
 	
-##Part 2:  Description of the tidy data set.
+## Part 2:  Description of the tidy data set.
 
 	The final tidy data set displays the average(or mean) value of all acquired 
 	signals for the signal variable names described above.  These average
@@ -99,7 +99,7 @@ motion activities.*
 	types, for each of the 30 volunteers in the study.  
 
 
-##Part 3:  Transformations performed to produce the tidy dataset in the R script.
+## Part 3:  Transformations performed to produce the tidy dataset in the R script.
 
 	 	
 	 **Step 1:** Working directory set to the course folder.
