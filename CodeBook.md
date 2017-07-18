@@ -1,12 +1,11 @@
+# Part 1:  Variable names and definitions
+
 *The following code book describes the variables and the data in the tidy
 dataset for this assignment and also an outline of the transformations and
 steps that were taken to produce the tidy dataset.  This work evaluates the
 average motion signals obtained from a study of 30 volunteers.  Each volunteer
 wore a cellphone to measure motion data parameters while performing various 
 motion activities.*
-
-
-## Part 1:  Variable names and definitions.
 
 
 ** Subject: **  A number used to identify a volunteer who used a cellphone
@@ -91,15 +90,15 @@ magnitude signal.
 signal.
 	
 	
-## Part 2:  Description of the tidy data set.
+# Part 2:  Description of the tidy data set
 
-	The final tidy data set displays the average(or mean) value of all acquired 
-	signals for the signal variable names described above.  These average
-        signal values are calculated over the original data for each of the 6 motion 
-	types, for each of the 30 volunteers in the study.  
+The final tidy data set displays the average(or mean) value of all acquired 
+signals for the signal variable names described above.  These average
+signal values are calculated over the original data for each of the 6 motion 
+types, for each of the 30 volunteers in the study.  
 
 
-## Part 3:  Transformations performed to produce the tidy dataset in the R script.
+# Part 3:  Transformations performed to produce the tidy dataset in the R script
 
 	 	
 ** Step 1: ** Working directory set to the course folder.

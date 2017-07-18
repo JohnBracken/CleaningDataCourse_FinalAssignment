@@ -113,7 +113,7 @@ tidy_data_averages <- aggregate(reduced_data[,3:68], by=list(Subject = reduced_d
 write.table(tidy_data_averages, "tidy_dataset_averages.txt", sep ="\t", row.names = FALSE)
 
 
-#Also export the tidy data set to a csv file, to show on Github.
+#Also export the tidy data set to a csv file.
 write.csv(tidy_data_averages,"tidy_dataset_averages.csv", row.names = FALSE)
 
 
