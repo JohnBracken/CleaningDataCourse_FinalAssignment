@@ -103,25 +103,25 @@ types, for each of the 30 volunteers in the study.
 	 	
 - **Step 1:** Working directory set to the course folder.
 - **Step 2:** Create a folder for the assignment data.
-Step 3: Download the zipped dataset if it doesn't already exist locally.
-Step 4: Set the working directory in which to analyze and clean the data.
-Step 5: Read in the training and test data into the workspace.
-Step 6: Read the signal type list (features) into the workspace.
-Step 7: Set the column names of the training and test data to the 
-	feature list.
-Step 8: Read in the motion activity types and convert them to factors.
-Step 9: Add the motions for each measurement as a new column at the front
-	of the training and test data.
-Step 10: Load the subject data into the workspace(volunteers 1 to 30) for
-	 the training and test datasets.
-Step 11: Add the subject data as a column at the front of the training
-	 and test datasets.
-Step 12: Merge the training and test data into one large dataset.
-Step 13: Extract only the mean and standard deviation signals from
-	 the merged dataset to create a 'reduced' dataset.
-Step 14: Aggregate the reduced dataset to show the average values for
-	 all signals in the reduced dataset, for each volunteer and for
-	 each motion type.  This action will produce the tidy datset.
+- **Step 3:** Download the zipped dataset if it doesn't already exist locally.
+- **Step 4:** Set the working directory in which to analyze and clean the data.
+- **Step 5:** Read in the training and test data into the workspace.
+- **Step 6:** Read the signal type list (features) into the workspace.
+- **Step 7:** Set the column names of the training and test data to the 
+	      feature list.
+- **Step 8:** Read in the motion activity types and convert them to factors.
+- **Step 9:** Add the motions for each measurement as a new column at the front
+	      of the training and test data.
+- **Step 10:** Load the subject data into the workspace(volunteers 1 to 30) for
+	       the training and test datasets.
+- **Step 11:** Add the subject data as a column at the front of the training
+	       and test datasets.
+- **Step 12:** Merge the training and test data into one large dataset.
+- **Step 13:** Extract only the mean and standard deviation signals from
+	       the merged dataset to create a 'reduced' dataset.
+- **Step 14:** Aggregate the reduced dataset to show the average values for
+	       all signals in the reduced dataset, for each volunteer and for
+	       each motion type.  This action will produce the tidy datset.
 
 	 
 	     
