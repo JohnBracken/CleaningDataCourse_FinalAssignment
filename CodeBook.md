@@ -101,8 +101,8 @@ types, for each of the 30 volunteers in the study.
 # Part 3:  Transformations performed to produce the tidy dataset in the R script
 
 	 	
-**Step 1:** Working directory set to the course folder.
-**Step 2:** Create a folder for the assignment data.
+- **Step 1:** Working directory set to the course folder.
+- **Step 2:** Create a folder for the assignment data.
 Step 3: Download the zipped dataset if it doesn't already exist locally.
 Step 4: Set the working directory in which to analyze and clean the data.
 Step 5: Read in the training and test data into the workspace.
