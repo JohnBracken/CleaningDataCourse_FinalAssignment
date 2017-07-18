@@ -8,11 +8,11 @@ wore a cellphone to measure motion data parameters while performing various
 motion activities.*
 
 
-** Subject: **  A number used to identify a volunteer who used a cellphone
+**Subject:** A number used to identify a volunteer who used a cellphone
         to collect motion data.  There were a total of 30 volunteers in
 	the study.
 
- Activity:  Specific motion being performed to collect the data.  Can be
+Activity:  Specific motion being performed to collect the data.  Can be
         one of 6 values:  'Laying', 'Sitting', 'Standing', 'Walking',
 	'Walking Downstairs' or 'Walking Upstairs'.
 
